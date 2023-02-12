@@ -1,4 +1,4 @@
-### Hi there 👋
+### 是福州大学至诚学院学习软件的学生，希望能更好的学习计算机
 
 <!--
 **yanmu1094/yanmu1094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
